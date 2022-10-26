@@ -1,0 +1,59 @@
+.nav-container {
+    width: 100%;
+}
+
+nav {
+    width: 90%;
+    margin: 0 auto;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav img {
+    width: 130px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.nav-links a {
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+a.cart-icon {
+    font-size: 23px;
+    position: relative;
+}
+
+.cart-icon span{
+    position: absolute;
+    top: -7px;
+    right: -11px;
+    font-size: 11px;
+    color: #fff;
+    background-color: #F91944;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-nav {
+    background: #F91944;
+    padding: 5px 15px;
+    border-radius: 25px;
+}
+
+.nav-links a.signup-nav{
+    font-weight: normal;
+    color: #fff;
+}
