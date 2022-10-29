@@ -1,0 +1,164 @@
+[
+    {
+        "id": "B1",
+        "name": "Bagel and Cream Cheese",
+        "img": "https://i.postimg.cc/ydh65gmg/breakfast1.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 15.66
+    },
+    {
+        "id": "B2",
+        "name": "Breakfast Sandwich",
+        "img": "https://i.postimg.cc/YSYtGGyn/breakfast2.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 23.66
+    },
+    {
+        "id": "B3",
+        "name": "Baked Chicken",
+        "img": "https://i.postimg.cc/kgVJChNd/breakfast3.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 45.66
+    },
+    {
+        "id": "B4",
+        "name": "Egg Benedict",
+        "img": "https://i.postimg.cc/6Qvpr1Th/breakfast4.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 34.66
+    },
+    {
+        "id": "B5",
+        "name": "Toast Crossint Fried Egg",
+        "img": "https://i.postimg.cc/g2fY2q4L/breakfast5.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 12.66
+    },
+    {
+        "id": "B6",
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "img": "https://i.postimg.cc/WzXNNBfs/breakfast6.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 35.66
+    },
+    {
+        "id": "L1",
+        "name": "Healthy Meal Plan",
+        "img": "https://i.postimg.cc/QN678CKG/lunch1.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 15.66
+    },
+    {
+        "id": "L2",
+        "name": "Fride Chicken Bento",
+        "img": "https://i.postimg.cc/J4vBXFQp/lunch2.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 23.66
+    },
+    {
+        "id": "L3",
+        "name": "Tarragon Rubbed Salmon",
+        "img": "https://i.postimg.cc/7PX35XcR/lunch3.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 45.66
+    },
+    {
+        "id": "L4",
+        "name": "Indian Lunch",
+        "img": "https://i.postimg.cc/1XYVJ715/lunch4.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 34.66
+    },
+    {
+        "id": "L5",
+        "name": "Beef Steak",
+        "img": "https://i.postimg.cc/kXpWcG7F/lunch5.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 12.66
+    },
+    {
+        "id": "L6",
+        "name": "Honey-Soy-Glazed Salmon with Papers",
+        "img": "https://i.postimg.cc/7ZJ0Q46v/lunch6.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 35.66
+    },
+    {
+        "id": "D1",
+        "name": "Salmon with Grapefruit and Lentil Salad",
+        "img": "https://i.postimg.cc/kgr1MfLb/dinner1.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 15.66
+    },
+    {
+        "id": "D2",
+        "name": "Lemon Salmon Piccata",
+        "img": "https://i.postimg.cc/tJwrx5T8/dinner2.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 23.66
+    },
+    {
+        "id": "D3",
+        "name": "Pork Tenderlion with Quinioa Pilaf",
+        "img": "https://i.postimg.cc/1XfCXT9p/dinner3.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 45.66
+    },
+    {
+        "id": "D4",
+        "name": "Frence Fries with Cheese",
+        "img": "https://i.postimg.cc/BQP7Gd73/dinner4.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 34.66
+    },
+    {
+        "id": "D5",
+        "name": "Garlic Butter Baked Salmon",
+        "img": "https://i.postimg.cc/zDc26Jjp/dinner5.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 12.66
+    },
+    {
+        "id": "D6",
+        "name": "Baked Chicked",
+        "img": "https://i.postimg.cc/d1QSP3pN/dinner6.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "quantity": 0,
+        "price": 35.66
+    }
+]

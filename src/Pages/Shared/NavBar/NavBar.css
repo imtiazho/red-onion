@@ -9,6 +9,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 nav img {
@@ -23,8 +24,8 @@ nav img {
 
 .nav-links a {
     color: black;
-    font-weight: 500;
     font-size: 15px;
+    cursor: pointer;
 }
 
 a.cart-icon {
@@ -47,13 +48,50 @@ a.cart-icon {
     align-items: center;
 }
 
-.signup-nav {
+.login {
     background: #F91944;
     padding: 5px 15px;
     border-radius: 25px;
 }
 
-.nav-links a.signup-nav{
-    font-weight: normal;
+.nav-links a.login{
     color: #fff;
+}
+
+.user-profile{
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    overflow: hidden;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.settings-menu {
+    position: absolute;
+    right: 0;
+    bottom: -166%;
+    width: 200px;
+    background: #fff;
+    border-radius: 5px;
+    padding: 12px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+.settings-menu p{
+    background-color: #ddd;
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.settings-menu button{
+    width: 100%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #F91944;
+    color: #fff;
+    cursor: pointer;
 }

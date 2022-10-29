@@ -1,0 +1,50 @@
+[
+    {
+        "id": "B1",
+        "name": "Bagel and Cream Cheese",
+        "img": "https://i.postimg.cc/ydh65gmg/breakfast1.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 15.66
+    },
+    {
+        "id": "B2",
+        "name": "Breakfast Sandwich",
+        "img": "https://i.postimg.cc/YSYtGGyn/breakfast2.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 23.66
+    },
+    {
+        "id": "B3",
+        "name": "Baked Chicken",
+        "img": "https://i.postimg.cc/kgVJChNd/breakfast3.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 45.66
+    },
+    {
+        "id": "B4",
+        "name": "Egg Benedict",
+        "img": "https://i.postimg.cc/6Qvpr1Th/breakfast4.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 34.66
+    },
+    {
+        "id": "B5",
+        "name": "Toast Crossint Fried Egg",
+        "img": "https://i.postimg.cc/g2fY2q4L/breakfast5.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 12.66
+    },
+    {
+        "id": "B6",
+        "name": "Full Breakfast Fried Egg Toast Brunch",
+        "img": "https://i.postimg.cc/WzXNNBfs/breakfast6.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 35.66
+    }
+]

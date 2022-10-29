@@ -1,0 +1,64 @@
+.form {
+    background: url('../../images/bannerbackground-transparent.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-container {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    margin: 5rem 0 1rem 0;
+}
+
+.form-container img {
+    width: 230px;
+    margin: 0 auto;
+}
+
+.form-container form {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.input-field {
+    width: 100%;
+}
+
+.input-field input {
+    width: 100%;
+    padding: 17px 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #F5F5F5;
+    color: #000;
+}
+
+.input-field input::placeholder {
+    color: #A8A8A8;
+}
+
+.input-field input[type="submit"] {
+    background-color: #F91944;
+    color: #fff;
+    cursor: pointer;
+}
+
+.form a{
+    color: #F91944;
+}
+
+.error-message{
+    font-size: 15px;
+    font-weight: 300;
+    color: red;
+    margin: 5px 0 0 10px;
+}

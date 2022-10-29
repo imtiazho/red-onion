@@ -1,0 +1,86 @@
+.food-detail-card {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+}
+
+.info h1 {
+    font-weight: 600;
+    font-size: 40px;
+}
+
+p.food-decs {
+    width: 90%;
+    font-weight: 300;
+    font-size: 15px;
+    color: rgb(87, 87, 87);
+}
+
+.price-quantity,
+.quantity-controller,
+.cart-btn,
+.images {
+    display: flex;
+    align-items: center;
+}
+
+.price-quantity {
+    gap: 2rem;
+    margin: 0;
+}
+
+.price-quantity h3 {
+    margin: 1rem 0;
+}
+
+.quantity-controller p {
+    font-size: 15px;
+}
+.quantity-controller p span{
+    color: red;
+}
+.cart-btn {
+    gap: 0.6rem;
+}
+
+.relatedPicture-slide {
+    gap: 1rem;
+    margin: 6rem 0 2rem 0;
+}
+
+.images {
+    gap: 3rem;
+}
+
+.images img {
+    cursor: pointer;
+}
+
+.price-quantity h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.cart-btn {
+    background-color: #F91944;
+    border-radius: 25px;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.cart-btn:hover{
+    background: #cb0027;
+}
+
+.targetedImage img {
+    max-width: 90%;
+}
+
+.relatedPicture-slide p {
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 1rem;
+}

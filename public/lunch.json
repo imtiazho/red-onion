@@ -1,0 +1,50 @@
+[
+    {
+        "id":  "L1",
+        "name": "Healthy Meal Plan",
+        "img": "https://i.postimg.cc/QN678CKG/lunch1.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 15.66
+    },
+    {
+        "id":  "L2",
+        "name": "Fride Chicken Bento",
+        "img": "https://i.postimg.cc/J4vBXFQp/lunch2.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 23.66
+    },
+    {
+        "id":  "L3",
+        "name": "Tarragon Rubbed Salmon",
+        "img": "https://i.postimg.cc/7PX35XcR/lunch3.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 45.66
+    },
+    {
+        "id":  "L4",
+        "name": "Indian Lunch",
+        "img": "https://i.postimg.cc/1XYVJ715/lunch4.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 34.66
+    },
+    {
+        "id":  "L5",
+        "name": "Beef Steak",
+        "img": "https://i.postimg.cc/kXpWcG7F/lunch5.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 12.66
+    },
+    {
+        "id":  "L6",
+        "name": "Honey-Soy-Glazed Salmon with Papers",
+        "img": "https://i.postimg.cc/7ZJ0Q46v/lunch6.png",
+        "shortDesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "FullDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat, amet dignissimos! Eos, aut quasi id consequuntur optio velit distinctio voluptates perferendis cupiditate voluptatem voluptas earum, qui praesentium eum expedita, quam ad beatae ea labore repudiandae explicabo recusandae facere laudantium. Impedit, veritatis? Sint ipsa et amet nesciunt, quae minima voluptatum. Nihil.",
+        "price": 35.66
+    }
+]

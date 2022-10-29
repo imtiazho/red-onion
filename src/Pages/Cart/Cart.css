@@ -1,0 +1,101 @@
+.cart{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    width: 80%;
+    margin: 4rem auto;
+}
+.ordered-items{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    padding: 10px 15px 10px 10px;
+}
+.item img{
+    width: 80px;
+}
+.cart-info{
+    text-align: center;
+}
+.cart-info p{
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.cart-info h4{
+    font-size: 20px;
+    font-weight: 600;
+    color: #F91944;
+}
+.change-quantity{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.change-quantity button{
+    background: rgba(235, 87, 87, 0.3);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    font-size: 16px;
+    height: 40px;
+    color: #F91944;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.change-quantity p{
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart-calculation h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+.calculate-item{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.each-info{
+    border-bottom: 1px dashed #ddd;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.place-order-btn{
+    width: 200px;
+    text-align: center;
+    display: block;
+    background-color: #000;
+    color: #fff;
+    margin: 2rem auto;
+    padding: 10px 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+.place-order-btn-disabled {
+    width: 200px;
+    text-align: center;
+    display: block;
+    background-color: #e1e1e1;
+    color: #fff;
+    margin: 2rem auto;
+    padding: 10px 15px;
+    font-weight: 400;
+    cursor: not-allowed;
+}
